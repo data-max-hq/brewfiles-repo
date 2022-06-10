@@ -17,6 +17,7 @@ cask 'gimp'
 cask 'intellij-idea-ce'
 cask 'nordvpn'
 cask 'zoom'
+cask 'postman'
 
 brew 'helm'
 brew 'kubernetes-cli'
